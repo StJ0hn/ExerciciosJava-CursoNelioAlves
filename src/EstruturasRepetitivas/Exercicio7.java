@@ -17,5 +17,6 @@ public class Exercicio7 {
                 System.out.printf("%.1f %n", division);
             }
         }
+        sc.close();
     }
 }
